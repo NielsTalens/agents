@@ -1,6 +1,6 @@
 ---
 title: User Flows
-desc: describe the flows users can follow in the products.
+desc: describe the flows users can follow in the products. Think op happy flows but also include non-happy and edge cases. 
 ---
 ## Summary
 
