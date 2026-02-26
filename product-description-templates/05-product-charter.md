@@ -14,7 +14,7 @@ Non-negotiable truths that guide all product decisions.
 
 Each principle must include:
 - What it means
-- What it prevents
+- What it prevents or enables
 - An example of violation
 
 Example structure:
